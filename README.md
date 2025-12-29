@@ -42,7 +42,7 @@ It recursively scans a folder for `TODO` and `FIXME` comments across supported s
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/K-Scanner.git
+git clone https://github.com/kazuya-2006-26/K-Scanner.git
 cd K-Scanner
 ```
 Build the project:
